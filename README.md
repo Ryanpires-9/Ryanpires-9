@@ -43,5 +43,5 @@
 <h2>My Github Stats</h2>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ryan's Github Stats" src="https://github-stats-pi-eight.vercel.app/api?username=Ryanpires-9&show_icons=true&count_private=true&theme=tokyonight" height="196px"/></a>
-    <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=Ryanpires-9&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=github-stats&hide=html&theme=tokyonight" height="196px" alt="Account Top Languages"/>
+    <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=Ryanpires-9&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=github-stats&hide=html&theme=tokyonight" height="196px" alt="Account Top Languages"/>
 </div>
