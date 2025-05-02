@@ -26,7 +26,7 @@
         </a>
         <h4>Other Languages</h4>
         <a href="https://dev.mysql.com/doc/">
-            <img src="https://img.shields.io/badge/SQLServer--667ef4?style=for-the-badge&labelColor=081c7b&logo=sql server" alt="MySQL_Badge">
+            <img src="https://img.shields.io/badge/SQLServer--667ef4?style=for-the-badge&labelColor=081c7b" alt="SQLSERVER_Badge">
         </a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white" alt="C#_Badge">
