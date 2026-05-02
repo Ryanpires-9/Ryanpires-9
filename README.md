@@ -2,7 +2,7 @@
     <body>
         <h1>Hi! I'm Ryan and I like programming</h1>
         <p>Here I gonna talk about my self, the things I do and the languages I know a little bit or that ones that I dominate.</p>
-        <p>I'm 16 years old and I'm from Brazil, Sorocaba, São Paulo. I do scout, karate and go to the church.</p>
+        <p>I'm 17 years old and I'm from Brazil, Sorocaba, São Paulo. I do scout, karate and go to the church.</p>
         <img src="source/rayquaza.gif" alt="rayquaza-gif" width="50%">
         <h2>Languages I use in my projects</h2>
         <h4>Web developer Languages and frameworks</h4>
