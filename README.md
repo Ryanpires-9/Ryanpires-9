@@ -3,7 +3,6 @@
         <h1>Hi! I'm Ryan and I like programming</h1>
         <p>Here I gonna talk about my self, the things I do and the languages I know a little bit or that ones that I dominate.</p>
         <p>I'm 17 years old and I'm from Brazil, Sorocaba, São Paulo. I do scout, karate and go to the church.</p>
-        <img src="source/rayquaza.gif" alt="rayquaza-gif" width="50%">
         <h2>Languages I use in my projects</h2>
         <h4>Web developer Languages and frameworks</h4>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -18,15 +17,18 @@
         <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
             <img src="https://img.shields.io/badge/Bootstrap5--712cf9?style=for-the-badge&labelColor=4c0bce&logo=bootstrap" alt="Bootstrap_Badge">
         </a>
-        <a href="https://react.dev/learn">
-            <img src="https://img.shields.io/badge/React.js--88dded?style=for-the-badge&labelColor=+%234c768d&logo=react" alt="React.js_Badge">
-        </a>
         <a href="https://www.php.net/docs.php">
             <img src="https://img.shields.io/badge/PHP--8993be?style=for-the-badge&labelColor=232531&logo=php" alt="PHP_Badge">
         </a>
+        <a href="https://laravel.com/framework/docs">
+            <img src="https://img.shields.io/badge/Laravel--F05340?style=for-the-badge&labelColor=323330&logo=laravel" alt="Laravel_Badge">
+        </a>
         <h4>Other Languages</h4>
-        <a href="https://dev.mysql.com/doc/">
+        <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17">
             <img src="https://img.shields.io/badge/SQLServer--667ef4?style=for-the-badge&labelColor=081c7b" alt="SQLSERVER_Badge">
+        </a>
+        <a href="https://dev.mysql.com/doc/">
+            <img src="https://img.shields.io/badge/MySQL--00758F?style=for-the-badge&labelColor=F29111&logo=mysql" alt="MySQL_Badge">
         </a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white" alt="C#_Badge">
