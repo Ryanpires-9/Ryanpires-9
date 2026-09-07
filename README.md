@@ -9,7 +9,7 @@
             <img src="https://img.shields.io/badge/HTML--ff883e?style=for-the-badge&labelColor=ffffff&logo=html5" alt="HTML_Badge">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-            <img src="https://img.shields.io/badge/CSS--2965f1?style=for-the-badge&labelColor=2965f1&logo=css3" alt="CSS_Badge">
+            <img src="https://img.shields.io/badge/CSS--2965f1?style=for-the-badge&labelColor=2965f1&logo=css" alt="CSS_Badge">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://img.shields.io/badge/JavaScript--f0db4f?style=for-the-badge&labelColor=323330&logo=javascript" alt="JavaScript_Badge">
