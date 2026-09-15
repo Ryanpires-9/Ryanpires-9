@@ -1,47 +1,60 @@
-<html lang="pt-br">
-    <body>
-        <h1>Hi! I'm Ryan and I like programming</h1>
-        <p>Here I gonna talk about my self, the things I do and the languages I know a little bit or that ones that I dominate.</p>
-        <p>I'm 17 years old and I'm from Brazil, Sorocaba, São Paulo. I do scout, karate and go to the church.</p>
-        <h2>Languages I use in my projects</h2>
-        <h4>Web developer Languages and frameworks</h4>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-            <img src="https://img.shields.io/badge/HTML--ff883e?style=for-the-badge&labelColor=ffffff&logo=html5" alt="HTML_Badge">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-            <img src="https://img.shields.io/badge/CSS--2965f1?style=for-the-badge&labelColor=2965f1&logo=css" alt="CSS_Badge">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://img.shields.io/badge/JavaScript--f0db4f?style=for-the-badge&labelColor=323330&logo=javascript" alt="JavaScript_Badge">
-        </a>
-        <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
-            <img src="https://img.shields.io/badge/Bootstrap5--712cf9?style=for-the-badge&labelColor=4c0bce&logo=bootstrap" alt="Bootstrap_Badge">
-        </a>
-        <a href="https://www.php.net/docs.php">
-            <img src="https://img.shields.io/badge/PHP--8993be?style=for-the-badge&labelColor=232531&logo=php" alt="PHP_Badge">
-        </a>
-        <a href="https://laravel.com/framework/docs">
-            <img src="https://img.shields.io/badge/Laravel--F05340?style=for-the-badge&labelColor=323330&logo=laravel" alt="Laravel_Badge">
-        </a>
-        <h4>Other Languages</h4>
-        <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17">
-            <img src="https://img.shields.io/badge/SQLServer--667ef4?style=for-the-badge&labelColor=081c7b" alt="SQLSERVER_Badge">
-        </a>
-        <a href="https://dev.mysql.com/doc/">
-            <img src="https://img.shields.io/badge/MySQL--00758F?style=for-the-badge&labelColor=F29111&logo=mysql" alt="MySQL_Badge">
-        </a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-            <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white" alt="C#_Badge">
-        </a>
-        <a href="https://reactnative.dev/docs/getting-started">
-            <img src="https://img.shields.io/badge/React Native--88dded?style=for-the-badge&labelColor=+%234c768d&logo=react" alt="React_Native_Badge">
-        </a>
-        <h2>My Github Stats</h2>
-        <div>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img alt="Ryan's Github Stats" src="https://vercel.app" height="196px"/>
-            </a>
-            <img src="https://vercel.app" height="196px" alt="Account Top Languages"/>
-        </div>
-    </body>
-</html>
+<div align="center">
+  <h1>Olá! Eu sou o Ryan 👋</h1>
+  <p><strong>Desenvolvedor Full Stack (Laravel)</strong></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:seu-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
+</div>
+
+---
+
+### Sobre Mim
+
+- 📍 Sorocaba, São Paulo - Brasil 🇧🇷
+- 🥋 Fora dos códigos, pratico **Karatê**, participo do **Escotismo** e sou ativo na minha comunidade.
+- 🚀 Atualmente desenvolvendo projetos com foco em **PHP / Laravel** e aplicações web completas.
+
+---
+
+### Tecnologias & Ferramentas
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### ⚙️ Backend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+### Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Sequência de Commits" />
+</div>
