@@ -51,10 +51,10 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanpires-9&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanpires-9&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Sequência de Commits" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanpires-9&theme=tokyonight" alt="Sequência de Commits" />
 </div>
